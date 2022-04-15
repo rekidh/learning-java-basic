@@ -44,3 +44,30 @@ public static void main(){
 
 }
 ```
+
+**_organisasi Program dengan Package_**
+
+- ini berfungsi untuk membuat folder kita lebih terstruktur
+- pada dasarnya saat kit ameng compile `Main.java` pada `coment prom` hasil compile nya akan di letakan pada folder yang sama
+- pada kasus ini kita tidak mau hasil compile kita tercampur di `Main.java` karena akan membuat file berantakan
+- maka dari itu kita butuh memisakah `file utama` dengan hasil `compile`
+- _caranya_
+
+```
+$c/Tutorial Java/Memahami Program> //ini adalah directory kita
+
+// kita harus pindahkan directory ke
+$cd c/Tutorial Java/Memahami Program/src
+
+// karena semua Main.java di tempat kan di src
+
+// seterlah itu kita lakukan compile
+$ javac Main.java -d ../bin
+
+/*
+- javac  => sytax untuk mencompile
+- Mian.java => file yang akan di compile
+- -d  => peritah untuk memindahkan ke folder mana
+- ../bin  => arah directory nya
+*/
+```
