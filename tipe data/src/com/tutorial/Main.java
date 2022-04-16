@@ -67,5 +67,13 @@ public class Main {
         System.out.println("nilai Min =" + Float.MIN_VALUE);
         System.out.println("Besar Integer ="+Float.BYTES+"bytes");
         System.out.println("Besar Integer ="+Float.SIZE+"Bit");
+
+        //Boolean
+        boolean val = true;
+        System.out.println("****BOOLEAN****");
+        System.out.println("nilai integer angka ="+val);
+        System.out.println("nilai Min =" + Boolean.TRUE);
+        System.out.println("nilai Min =" + Boolean.FALSE);
+
     }
 }
