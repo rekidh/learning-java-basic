@@ -1,0 +1,66 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-jmx-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-console-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-macro-library-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-servlet-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-astbuilder-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-jsr223-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-sql-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-jmx-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-nio-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-macro-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-macro-library-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-cli-picocli-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-groovysh-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-dateutil-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-datetime-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-swing-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-json-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-nio-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-docgenerator-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-json-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-cli-picocli-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-macro-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-templates-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-testng-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-xml-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-groovydoc-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-test-junit5-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-test-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-testng-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-groovydoc-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-jsr223-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-test-junit5-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-groovysh-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-dateutil-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-ant-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-ant-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-console-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-servlet-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-typecheckers-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-swing-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-docgenerator-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-toml-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-test-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-typecheckers-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-datetime-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-contracts-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-cli-commons-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-ginq-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-toml-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-xml-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-contracts-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-sql-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-ginq-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-astbuilder-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-cli-commons-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/memahamiStringArg/lib/groovy-templates-4.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
