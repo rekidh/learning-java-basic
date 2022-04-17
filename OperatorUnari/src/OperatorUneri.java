@@ -24,5 +24,10 @@ public class OperatorUneri {
     System.out.printf("nilai ndengan '++'  %d \n", b++); // postfix
     System.out.printf("nilai ndengan '++'  %d \n", b);
 
+    // unary boolean ! untuk negasi
+    boolean ucup = true;
+    System.out.println("nilai boolean =" + ucup);
+    System.out.println("nilai boolean =" + !ucup);
+
   }
 }
