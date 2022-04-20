@@ -1,0 +1,66 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-jsr223-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-json-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-groovydoc-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-docgenerator-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-macro-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-nio-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-dateutil-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-nio-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-cli-picocli-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-contracts-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-groovysh-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-templates-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-templates-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-swing-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-datetime-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-console-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-sql-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-ant-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-contracts-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-xml-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-macro-library-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-swing-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-cli-commons-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-testng-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-test-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-testng-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-jmx-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-ginq-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-test-junit5-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-groovydoc-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-test-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-servlet-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-console-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-jsr223-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-typecheckers-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-cli-commons-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-xml-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-macro-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-astbuilder-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-datetime-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-sql-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-toml-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-toml-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-docgenerator-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-dateutil-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-ant-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-servlet-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-astbuilder-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-typecheckers-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-jmx-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-cli-picocli-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-test-junit5-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-json-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-macro-library-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-ginq-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Eps-02 java IDE/lib/groovy-groovysh-4.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

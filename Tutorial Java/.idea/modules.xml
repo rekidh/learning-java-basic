@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Eps-02 java IDE/Eps-02 java IDE.iml" filepath="$PROJECT_DIR$/Eps-02 java IDE/Eps-02 java IDE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eps-04 Memahami Program/Eps-04 Memahami Program.iml" filepath="$PROJECT_DIR$/Eps-04 Memahami Program/Eps-04 Memahami Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eps-07 MemahamiStringArg/Eps-07 MemahamiStringArg.iml" filepath="$PROJECT_DIR$/Eps-07 MemahamiStringArg/Eps-07 MemahamiStringArg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eps-09 tipe data/Eps-09 tipe data.iml" filepath="$PROJECT_DIR$/Eps-09 tipe data/Eps-09 tipe data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eps-10 Operator Aritmatika/Eps-10 Operator Aritmatika.iml" filepath="$PROJECT_DIR$/Eps-10 Operator Aritmatika/Eps-10 Operator Aritmatika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eps-11 Konversi tipe data/Eps-11 Konversi tipe data.iml" filepath="$PROJECT_DIR$/Eps-11 Konversi tipe data/Eps-11 Konversi tipe data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eps-12 Operator Unary/Eps-12 Operator Unary.iml" filepath="$PROJECT_DIR$/Eps-12 Operator Unary/Eps-12 Operator Unary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eps-13 OperatorAsingmen/Eps-13 OperatorAsingmen.iml" filepath="$PROJECT_DIR$/Eps-13 OperatorAsingmen/Eps-13 OperatorAsingmen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eps-15 Operator Logika/Eps-15 Operator Logika.iml" filepath="$PROJECT_DIR$/Eps-15 Operator Logika/Eps-15 Operator Logika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eps-16 Operator Bitwise/Eps-16 Operator Bitwise.iml" filepath="$PROJECT_DIR$/Eps-16 Operator Bitwise/Eps-16 Operator Bitwise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eps-17 Mengambil User Input/Eps-17 Mengambil User Input.iml" filepath="$PROJECT_DIR$/Eps-17 Mengambil User Input/Eps-17 Mengambil User Input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eps-18 Pengelompokan Operasi Aritmatika/Eps-18 Pengelompokan Operasi Aritmatika.iml" filepath="$PROJECT_DIR$/Eps-18 Pengelompokan Operasi Aritmatika/Eps-18 Pengelompokan Operasi Aritmatika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eps-19 Latihan Operator Logika/Eps-19 Latihan Operator Logika.iml" filepath="$PROJECT_DIR$/Eps-19 Latihan Operator Logika/Eps-19 Latihan Operator Logika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eps-20 IF Else Statement/Eps-20 IF Else Statement.iml" filepath="$PROJECT_DIR$/Eps-20 IF Else Statement/Eps-20 IF Else Statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eps-21 IF Else IF Statement/Eps-21 IF Else IF Statement.iml" filepath="$PROJECT_DIR$/Eps-21 IF Else IF Statement/Eps-21 IF Else IF Statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eps-22 IF bersarang/Eps-22 IF bersarang.iml" filepath="$PROJECT_DIR$/Eps-22 IF bersarang/Eps-22 IF bersarang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eps-23 Switch Case/Eps-23 Switch Case.iml" filepath="$PROJECT_DIR$/Eps-23 Switch Case/Eps-23 Switch Case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eps-24 Ternary Operator/Eps-24 Ternary Operator.iml" filepath="$PROJECT_DIR$/Eps-24 Ternary Operator/Eps-24 Ternary Operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eps-25 Latihan Kalkulator/Eps-25 Latihan Kalkulator.iml" filepath="$PROJECT_DIR$/Eps-25 Latihan Kalkulator/Eps-25 Latihan Kalkulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eps-26 Kalkulator Switch/Eps-26 Kalkulator Switch.iml" filepath="$PROJECT_DIR$/Eps-26 Kalkulator Switch/Eps-26 Kalkulator Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Tutorial Java.iml" filepath="$PROJECT_DIR$/.idea/Tutorial Java.iml" />
+    </modules>
+  </component>
+</project>
