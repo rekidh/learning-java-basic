@@ -1,6 +1,5 @@
 {
   "java.project.sourcePaths": [
-    "konversi tipe data/src",
-    "OperatorUnari/src"
+    "OOPjava/JavaOOP/src"
   ]
 }
