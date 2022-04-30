@@ -5,16 +5,16 @@ public class Pangil {
 
         Scanner inputUser = new Scanner(System.in);
 
-        Kalkulator value = new Kalkulator();
+        System.out.print("masukan value 1 : ");
+        int value1 = inputUser.nextInt();
 
-        System.out.println("masukan valu 1");
-        value.value1 = inputUser.nextInt();
+        System.out.print("masukan operator : ");
+        String operator = inputUser.next();
 
-        System.out.println("masukan operator");
-        value.operator = inputUser.next();
+        System.out.print("masukan value 2 : ");
+        int value2 = inputUser.nextInt();
 
-        System.out.println("masukan valu 2");
-        value.value2 = inputUser.nextInt();
+        Kalkulator value = new Kalkulator(value1, value2, operator);
 
         switch (value.operator) {
             case "*":
